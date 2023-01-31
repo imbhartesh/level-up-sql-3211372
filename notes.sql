@@ -5,4 +5,4 @@
 -- These two statements operate on the 
 -- restaurant.db SQLite database.
 SELECT * FROM Dishes;
-SELECT * FROM Customers;
+SELECT  FROM Customers;
